@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\contextcorelite\\module.contextcorelite.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nextcloud\\code\\contextcoreliteexp\\intermediate\\build\\win64\\x64\\contextcoreliteexpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\contextcorelite\\definitions.contextcorelite.h",
+            "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\contextcorelite\\permoduleinline.gen.cpp",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

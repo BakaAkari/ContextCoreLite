@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ContextCoreLite.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Nextcloud/Code/ContextCoreLiteExp/Intermediate/Build/Win64/x64/ContextCoreLiteExpEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/Module.ContextCoreLite.cpp.obj"
+"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/BlueprintExporterLite.cpp.obj"
+"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/ContextCoreLiteModule.cpp.obj"
+"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/MetadataGeneratorLite.cpp.obj"
+"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/Default.rc2.res"
+/OUT:"D:/Nextcloud/Code/ContextCoreLiteExp/Plugins/ContextCoreLite/Intermediate/Build/Win64/x64/UnrealEditor/Development/ContextCoreLite/UnrealEditor-ContextCoreLite.lib"

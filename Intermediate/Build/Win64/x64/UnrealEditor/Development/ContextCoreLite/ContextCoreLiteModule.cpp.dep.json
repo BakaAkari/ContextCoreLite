@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\source\\contextcorelite\\private\\contextcorelitemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nextcloud\\code\\contextcoreliteexp\\intermediate\\build\\win64\\x64\\contextcoreliteexpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\contextcorelite\\definitions.contextcorelite.h",
+            "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\source\\contextcorelite\\public\\contextcorelitemodule.h",
+            "d:\\nextcloud\\code\\contextcoreliteexp\\plugins\\contextcorelite\\source\\contextcorelite\\public\\blueprintexporterlite.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowser\\public\\contentbrowserdelegates.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\merge\\public\\merge.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowserdata\\public\\contentbrowserdatalegacybridge.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowserdata\\public\\contentbrowserdatamenucontexts.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowserdata\\public\\contentbrowseritem.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowserdata\\public\\contentbrowseritemdata.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\contentbrowserdata\\uht\\contentbrowseritem.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\collectionmanager\\public\\collectionmanagertypes.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\contentbrowserdata\\uht\\contentbrowserdatamenucontexts.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\contentbrowserdata\\uht\\contentbrowserdatalegacybridge.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowser\\public\\contentbrowsermodule.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowser\\public\\experimental\\contentbrowserviewextender.h",
+            "d:\\unreal engine\\ue_5.7\\engine\\source\\editor\\contentbrowser\\public\\assetviewtypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
