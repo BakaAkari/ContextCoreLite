@@ -1,0 +1,17 @@
+# Build artifacts
+Binaries/
+Intermediate/
+Releases/
+
+# Tooling
+.vs/
+.idea/
+*.sln
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS
+.DS_Store
+Thumbs.db
