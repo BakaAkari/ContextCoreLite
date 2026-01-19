@@ -1,25 +1,27 @@
-{
-	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
-	"FriendlyName": "ContextCore Lite (Trial)",
-	"Description": "Trial version - Export single Blueprint to AI-readable format. Upgrade to full version for recursive exports, C++ reflection, and auto-update.",
-	"Category": "Editor",
-	"CreatedBy": "",
-	"CreatedByURL": "",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
-	"CanContainContent": false,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false,
-	"Modules": [
-		{
-			"Name": "ContextCoreLite",
-			"Type": "Editor",
-			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": []
+﻿{
+    "FileVersion":  3,
+    "Version":  1,
+    "VersionName": "1.0.9",
+    "FriendlyName":  "ContextCore Lite (Trial)",
+    "Description":  "Trial version - Export single Blueprint to AI-readable format. Upgrade to full version for recursive exports, C++ reflection, and auto-update.",
+    "Category":  "Editor",
+    "CreatedBy":  "",
+    "CreatedByURL":  "",
+    "DocsURL":  "",
+    "MarketplaceURL":  "",
+    "SupportURL":  "",
+    "CanContainContent":  false,
+    "IsBetaVersion":  false,
+    "IsExperimentalVersion":  false,
+    "Installed":  false,
+    "Modules":  [
+                    {
+                        "Name":  "ContextCoreLite",
+                        "Type":  "Editor",
+                        "LoadingPhase":  "Default"
+                    }
+                ],
+    "Plugins":  [
+
+                ]
 }
