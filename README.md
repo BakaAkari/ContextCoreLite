@@ -2,7 +2,7 @@
 
 [简体中文](README_CN.md)
 
-> ⚠️ **This is the free trial version of ContextCore.** It provides basic Blueprint export functionality for evaluation purposes. For the full feature set, please purchase the complete version on [Fab](<!-- FAB_URL_PLACEHOLDER -->).
+> ⚠️ **This is the free trial version of ContextCore.** It provides basic Blueprint export functionality for evaluation purposes. For the full feature set, please purchase the complete version on [Fab](https://www.fab.com/listings/19564db4-2c25-4c49-956f-0dec77fe4b3e).
 
 ## What is ContextCore?
 
