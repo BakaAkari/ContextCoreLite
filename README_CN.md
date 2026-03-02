@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-> ⚠️ **这是 ContextCore 的免费试用版。** 提供基础的蓝图导出功能供评估使用。如需完整功能，请在 [Fab](<!-- FAB_URL_PLACEHOLDER -->) 购买完整版。
+> ⚠️ **这是 ContextCore 的免费试用版。** 提供基础的蓝图导出功能供评估使用。如需完整功能，请在 [Fab](https://www.fab.com/listings/19564db4-2c25-4c49-956f-0dec77fe4b3e) 购买完整版。
 
 ## 什么是 ContextCore？
 
