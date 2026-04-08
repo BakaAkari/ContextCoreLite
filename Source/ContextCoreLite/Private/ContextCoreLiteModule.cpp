@@ -51,7 +51,7 @@ void FContextCoreLiteModule::RegisterContextMenuExtension() {
                   FMenuExtensionDelegate::CreateLambda([SelectedAssets](
                                                            FMenuBuilder &MenuBuilder) {
                     MenuBuilder.AddMenuEntry(
-                        LOCTEXT("ExportToContextLite", "Export to Context (Lite)"),
+                        LOCTEXT("ExportToContextLite", "ContextCore Lite: Export"),
                         LOCTEXT("ExportToContextLiteTooltip",
                                 "Export selected Blueprint to AI-readable format.\n"
                                 "[Trial Version] Single asset only, no dependency export."),

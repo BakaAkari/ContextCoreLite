@@ -26,7 +26,7 @@ ContextCore is an Unreal Engine Editor plugin that exports Blueprint assets into
 | **AnimMontage / AnimSequence Export** | ❌ | ✅ |
 | **Material / MaterialFunction Export** | ❌ | ✅ |
 | **MetaSound Export** | ❌ | ✅ |
-| **Global Knowledge Base Index** (`_index.json`) | ❌ | ✅ |
+| **Global Context Index** (`_index.json`) | ❌ | ✅ |
 | **Asset Tracking & Incremental Updates** | ❌ | ✅ |
 | **AI Context Files** (`CONTEXT.md`, `llms.txt`) | ❌ | ✅ |
 | **Source File Indexing** (class → header/cpp mapping) | ❌ | ✅ |
@@ -47,7 +47,7 @@ ContextCore is an Unreal Engine Editor plugin that exports Blueprint assets into
 ## Usage
 
 1. In the Content Browser, right-click on any Blueprint asset(s)
-2. Select **Export to Context (Lite)**
+2. Select **ContextCore Lite: Export**
 3. Exported files will be saved to `[ProjectDir]/Docs/.context/`
 
 ## Output Structure
@@ -78,7 +78,7 @@ Upgrade to unlock:
 - 🌳 **Deep Dependency Export** — AI sees your entire asset tree
 - ⚙️ **C++ Reflection Export** — Bridge Blueprint and C++ logic
 - 📦 **14 Asset Types** — Materials, DataTables, MetaSounds, and more
-- 📋 **Knowledge Base Index** — Organized, searchable AI context
+- 📋 **Context Index** — Organized, searchable AI context
 
 ## License
 
