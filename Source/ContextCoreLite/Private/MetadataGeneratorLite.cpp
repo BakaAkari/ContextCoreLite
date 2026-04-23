@@ -156,9 +156,16 @@ TSharedPtr<FJsonObject> FMetadataGeneratorLite::GenerateVariablesJson(UBlueprint
       VarObj->SetStringField(TEXT("default"), Var.DefaultValue);
     }
 
+#if ENGINE_MAJOR_VERSION >= 5
     if (Var.HasMetaData(FBlueprintMetadata::MD_Tooltip)) {
       VarObj->SetStringField(TEXT("tooltip"), Var.GetMetaData(FBlueprintMetadata::MD_Tooltip));
     }
+#else
+    static const FName TooltipMeta(TEXT("Tooltip"));
+    if (Var.HasMetaData(TooltipMeta)) {
+      VarObj->SetStringField(TEXT("tooltip"), Var.GetMetaData(TooltipMeta));
+    }
+#endif
 
     VarsArray.Add(MakeShared<FJsonValueObject>(VarObj));
   }

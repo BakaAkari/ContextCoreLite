@@ -39,7 +39,7 @@ void FContextCoreLiteModule::RegisterContextMenuExtension() {
             bool bHasBlueprint = false;
             for (const FAssetData &Asset : SelectedAssets) {
               UClass *Class = Asset.GetClass();
-              if (Class->IsChildOf(UBlueprint::StaticClass())) {
+              if (Class && Class->IsChildOf(UBlueprint::StaticClass())) {
                 bHasBlueprint = true;
                 break;
               }

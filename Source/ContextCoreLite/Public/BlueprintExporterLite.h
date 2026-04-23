@@ -2,7 +2,11 @@
 
 #pragma once
 
+#if ENGINE_MAJOR_VERSION >= 5
 #include "AssetRegistry/AssetData.h"
+#else
+#include "AssetData.h"
+#endif
 #include "CoreMinimal.h"
 
 class UBlueprint;
