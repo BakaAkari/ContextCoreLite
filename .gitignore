@@ -1,17 +1,55 @@
-# Build artifacts
+# ContextCoreLite / Unreal Engine plugin ignores
+
+# Unreal generated build products
 Binaries/
 Intermediate/
-Releases/
+Saved/
+DerivedDataCache/
+Build/
 
-# Tooling
+# Packaged plugin output / archives
+Packaged/
+Package/
+Releases/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Visual Studio / Rider / IDE metadata
 .vs/
+.vscode/
 .idea/
 *.sln
+*.suo
+*.user
+*.userprefs
 *.csproj
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.opensdf
+*.sdf
 
-# OS
+# Compiler / linker / debug outputs
+*.dll
+*.pdb
+*.exe
+*.obj
+*.lib
+*.exp
+*.ilk
+*.iobj
+*.ipdb
+*.tlog
+
+# Logs, temp and caches
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# OS metadata
 .DS_Store
 Thumbs.db
