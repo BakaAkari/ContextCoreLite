@@ -1,4 +1,4 @@
-# ContextCoreLite / Unreal Engine plugin ignores
+# Unreal Engine plugin ignores
 
 # Unreal generated build products
 Binaries/
@@ -30,6 +30,8 @@ Releases/
 *.vcxproj.user
 *.opensdf
 *.sdf
+*.VC.db
+*.opendb
 
 # Compiler / linker / debug outputs
 *.dll
