@@ -1,3 +1,5 @@
+
+
 # ContextCore Lite (Trial Version)
 
 [简体中文](README_CN.md)
@@ -64,7 +66,7 @@ Docs/.context/
 
 ## Requirements
 
-- Unreal Engine 5.5+
+- Unreal Engine 4.27+
 - Editor-only (does not ship with packaged builds)
 
 ## Get the Full Version
